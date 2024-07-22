@@ -3,7 +3,7 @@ const constants = {
   engagementHallName: 'Sanskriti Resorts, Banquet Hall Delhi-Haridwar Bypass, Meerut',
   Marriage: '8th',
   engagementDate: '8th',
-  engagementTime: '7:30PM',
+  engagementTime: '7:00PM',
 };
 
 export default constants;

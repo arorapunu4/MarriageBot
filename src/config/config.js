@@ -30,7 +30,7 @@ export const botConfig = {
   engagement_date: {
     text: [
       `It's on the <b>${Constants.engagementDate}</b> of September.`,
-      `Yeah we know, it's less than even a month and we are super nervous!😬`,
+      `Yeah, we realize time's running out and we are super nervous!😬`,
       `Please be there by ${Constants.engagementTime} 🙏 `,
     ],
     audio: [Audios.EngagementSong],
@@ -43,7 +43,7 @@ export const botConfig = {
   location: {
     text: [
       `It's at <b>${Constants.engagementHallName}</b>`,
-      'you can just follow google maps by clicking',
+      'You can just follow google maps by clicking it.',
     ],
     location: [Images.LocationImage],
     link: Constants.mapLocation,
@@ -51,9 +51,9 @@ export const botConfig = {
   personal_pics: {
     text: [`Here you go`],
     gif: [Images.TomAndJerry],
-    text1: [`Ohh!!! Sorry, that's not our real pics 😢`],
+    text1: [`Ohh!!! Sorry, that's not our real pic. 😢`],
     image: [Images.Puneet, Images.Rashi, Images.Together],
-    text2: [`Cute couples right. Yes, we are!!!`],
+    text2: [`Cute couple right. Yes we are !🫣`],
   },
   join_bless: {
     text: [`Thanks we meet you on our Big day!`],
